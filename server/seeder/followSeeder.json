@@ -1,0 +1,51 @@
+[
+  {
+    "_id": { "$oid": "f09af3b43df6424bb42a9f14" },
+    "followingId": { "$oid": "656142817d2dd99e13a69f8f" },
+    "followerId": { "$oid": "656142817d2dd99e13a69f90" },
+    "createdAt": "2020-03-19T00:00:00.000Z",
+    "updatedAt": "2020-03-19T00:00:00.000Z"
+  },
+  {
+    "_id": { "$oid": "4d806e278786405b95cac8c5" },
+    "followingId": { "$oid": "656142817d2dd99e13a69f8f" },
+    "followerId": { "$oid": "745803afe00147d493d640ba" },
+    "createdAt": "2020-03-19T00:00:00.000Z",
+    "updatedAt": "2020-03-19T00:00:00.000Z"
+  },
+  {
+    "_id": { "$oid": "85e14a5ae674487fb84ca098" },
+    "followingId": { "$oid": "656142817d2dd99e13a69f8f" },
+    "followerId": { "$oid": "d3014c5dc12a4c84ae5919a8" },
+    "createdAt": "2020-03-19T00:00:00.000Z",
+    "updatedAt": "2020-03-19T00:00:00.000Z"
+  },
+  {
+    "_id": { "$oid": "cf7c20414dcb4202855be089" },
+    "followingId": { "$oid": "656142817d2dd99e13a69f91" },
+    "followerId": { "$oid": "d3014c5dc12a4c84ae5919a8" },
+    "createdAt": "2020-03-19T00:00:00.000Z",
+    "updatedAt": "2020-03-19T00:00:00.000Z"
+  },
+  {
+    "_id": { "$oid": "edaf1a9b60564152a183055c" },
+    "followingId": { "$oid": "d3014c5dc12a4c84ae5919a8" },
+    "followerId": { "$oid": "656142817d2dd99e13a69f91" },
+    "createdAt": "2020-03-19T00:00:00.000Z",
+    "updatedAt": "2020-03-19T00:00:00.000Z"
+  },
+  {
+    "_id": { "$oid": "d27774eb61554ee1a60df1cb" },
+    "followingId": { "$oid": "d3014c5dc12a4c84ae5919a8" },
+    "followerId": { "$oid": "656142817d2dd99e13a69f90" },
+    "createdAt": "2020-03-19T00:00:00.000Z",
+    "updatedAt": "2020-03-19T00:00:00.000Z"
+  },
+  {
+    "_id": { "$oid": "bf77107b42c042fbaa859f34" },
+    "followingId": { "$oid": "d3014c5dc12a4c84ae5919a8" },
+    "followerId": { "$oid": "656142817d2dd99e13a69f8f" },
+    "createdAt": "2020-03-19T00:00:00.000Z",
+    "updatedAt": "2020-03-19T00:00:00.000Z"
+  }
+]

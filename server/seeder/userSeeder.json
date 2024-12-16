@@ -1,0 +1,37 @@
+[
+  {
+    "_id": { "$oid": "656142817d2dd99e13a69f8f" },
+    "name": "Asha Soysa",
+    "username": "Asha",
+    "password": "$2a$10$ldug.dTPOp3jkXPTLulMZ.nATZv4HGzJRoleyP92.3HwiG0xu2aJO",
+    "email": "Asha@gmail.com"
+  },
+  {
+    "_id": { "$oid": "656142817d2dd99e13a69f90" },
+    "name": "Kelvin Tryanto",
+    "username": "kelvintryanto",
+    "password": "$2a$10$xO4KCtHxmEnzCJ44nxBE/uDyhVK4NCbyHIamQJ9uvc5VeLtnPvw1i",
+    "email": "kelvin.tryanto@gmail.com"
+  },
+  {
+    "_id": { "$oid": "656142817d2dd99e13a69f91" },
+    "name": "Sky Jack",
+    "username": "skyjack",
+    "password": "$2a$10$Uxm3WgIxLhw7P9P4VMaUV.azd9OmoqI.wj7UQn5nBL7t5B8hPpjVC",
+    "email": "skyjack345@mail.com"
+  },
+  {
+    "_id": { "$oid": "745803afe00147d493d640ba" },
+    "name": "Angela Astrid Dwi Putri",
+    "username": "angelaastrid",
+    "password": "$2a$10$t5Z7OLaJyLfdUo0RHHAJRuZj2QiQroF6ynaSYVyq6RyYf1XN2CmRO",
+    "email": "angelaastrid@gmail.com"
+  },
+  {
+    "_id": { "$oid": "d3014c5dc12a4c84ae5919a8" },
+    "name": "Tony Stark",
+    "username": "tonystark",
+    "password": "$2a$10$HFRs4ebfV1wEhSMFA13Noe2t3SVZOMXKamhdtjmY7yedqRIfEaeMC",
+    "email": "tony.stark@gmail.com"
+  }
+]
